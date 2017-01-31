@@ -52,14 +52,3 @@ h1 {
                font-size: small;
                padding: 5px;
 }  
-
-.table-layout3 {
-               border-style: dotted;
-               border-color: blue;
-               border-top-color: black;
-               text-align: center;
-               width: 20%;
-               font-family: Verdana;
-               font-size: small;
-               padding: 5px;
-}  
