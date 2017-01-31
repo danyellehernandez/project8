@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    color: green;
+    font-family: Verdana;
+}
+
+.table-header {
+               background-color: yellow;
+               border: 2px solid black;
+               font-family: Verdana;
+               text-align: center;
+               font-weight: bold;
+               font-size: small;
+               padding: 5px;
+}
+
+.table-layout {
+               border-style: none dotted dotted dotted;
+               border-color: blue;
+               border-top-color: black;
+               text-align: center;
+               width: 20%;
+               font-family: Verdana;
+               font-size: small;
+               padding: 5px;
+}               
+
+.table {
+        width: 650px;
+        position: center;
+}
+
+.collapse {
+           border-collapse: collapse;
+}
+
+.high-color {
+             color: red;
+}
+
+.low-color {
+            color: blue;
+}
+
+.table-layout2 {
+               border-style: dotted;
+               border-color: blue;
+               border-top-color: black;
+               text-align: center;
+               width: 20%;
+               font-family: Verdana;
+               font-size: small;
+               padding: 5px;
+}  
+
+.table-layout3 {
+               border-style: dotted;
+               border-color: blue;
+               border-top-color: black;
+               text-align: center;
+               width: 20%;
+               font-family: Verdana;
+               font-size: small;
+               padding: 5px;
+}  
