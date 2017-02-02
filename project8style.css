@@ -10,19 +10,19 @@ h1 { color: green;
                 padding: 5px;
                 text-align: center;
                 font-weight: bold;
-                height: 30px;
                 width: 20%;
 }
 
 .table { border-collapse: collapse;
          margin: auto;
          width: 650px;
+         font-size: 1em;
+         text-align: center;
 }
 
 .table-rowone { border-style: none dotted dotted dotted;
                 border-color: blue;
                 border-top-color: black;
-                text-align: center;
                 color: red;
                 height: 25px;
                
@@ -30,21 +30,17 @@ h1 { color: green;
 
 .table-row { border-style: dotted;
              border-color: blue;
-             text-align: center;
              color: blue;
              height: 25px;
 }
 
 .table-rowtwo { border-style: dotted;
                 border-color: blue;
-                text-align: center;
                 color: black;
-                font-size: 15px;
                 height: 25px;
 }
              
 .table-rowthree { border-style: dotted;
                   border-color: blue;
-                  text-align: center;
-                  font-size:12px;
+                  height: 25px;
 }
